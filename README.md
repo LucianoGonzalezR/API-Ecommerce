@@ -4,14 +4,3 @@ README EJ
 Hola soy Bauti
 e?
 :(
-
-
-
-
-
-
-
-
-
-
-.
